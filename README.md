@@ -29,14 +29,14 @@ Hi, I'm **Seyit Ahmet Demir**, a developer passionate about building immersive e
 
 ---
 
-🚀 **Projects & Experience**  
-- 🎮 *3D Action Adventure Game* (Google Bootcamp) — Enemy AI, physics, game logic  
-- 🎯 *Authentication App* — Built with Google Auth & cloud services  
-- 📱 *Dodomi Mobile Game* — Grid-based 2D logic game delivered in 5 days  
-- 💻 *Customer Support Bot* — Currently developing with C# and Azure  
-- ❤️ *FlowersAsGift* — Interactive romantic webpage with gestures and animations  
-- 🕹️ *Game Jams*: 2D platformers, AI, creative design  
-- 🧠 *Python Tutor*: Trained 50+ students on Python basics
+**Projects & Experience**  
+-  *3D Action Adventure Game* (Google Bootcamp) — Enemy AI, physics, game logic  
+-  *Authentication App* — Built with Google Auth & cloud services  
+-  *Dodomi Mobile Game* — Grid-based 2D logic game delivered in 5 days  
+-  *Customer Support Bot* — Currently developing with C# and Azure  
+- ❤ *FlowersAsGift* — Interactive romantic webpage with gestures and animations  
+-  *Game Jams*: 2D platformers, AI, creative design  
+-  *Python Tutor*: Trained 50+ students on Python basics
 
 ---
 
