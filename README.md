@@ -1,4 +1,4 @@
-🌐 Software Developer | Game Programmer | AI Enthusiast | Azure Bot Developer
+Software Developer | Game Programmer | AI Enthusiast | Azure Bot Developer
 
 Hi, I'm **Seyit Ahmet Demir**, a developer passionate about building immersive experiences and intelligent solutions — from crafting games and interactive web apps to developing customer support bots on Azure with C#.
 
@@ -12,7 +12,7 @@ Hi, I'm **Seyit Ahmet Demir**, a developer passionate about building immersive e
 
 ---
 
-🎓 **Education**  
+**Education**  
 - Google Game & Software Development Academy — *Certificate of Completion (100%)*  
 - Google Project Management Program (Coursera) — *Completed 20+ tasks*  
 - Gaziantep University — *English Language & Teaching (2021–2024 expected)*
@@ -47,7 +47,7 @@ Hi, I'm **Seyit Ahmet Demir**, a developer passionate about building immersive e
 
 ---
 
-📜 **Certifications**  
+**Certifications**  
 - Google Game Dev Academy  
 - Google Project Management  
 - Erasmus+ & International Hackathons  
